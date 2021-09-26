@@ -61,11 +61,11 @@ My name is Albenis Kerqeli. I am a Reactjs Developer living near Gjilan, Kosovo.
 
 
 ## 🔍  Where to find me
-[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />]
+[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25"/>]
 (https://www.linkedin.com/in/albeniskerqeli/)
 &nbsp;
-[<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook logo" title="Facebook" height="25" />] (https://www.facebook.com/albenisk)
-
+[<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook logo" title="Facebook" height="25"/>] (https://www.facebook.com/albenisk)
+&nbsp;
 
 [tech_tools_anchor]: #bonjour--
 [learning_now_anchor]: #learning-now
