@@ -1,6 +1,6 @@
 # Hi There 🥖
 
-My name is Albenis Kerqeli. I am a Reactjs Developer living near Gjilan, Kosovo. 🥐
+My name is Albenis Kerqeli. I am a React/Javascript Developer , living near Gjilan, Kosovo. 🌙
 
 ## 🛠  Technologies and tools
 
