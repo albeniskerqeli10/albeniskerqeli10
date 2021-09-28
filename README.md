@@ -1,4 +1,4 @@
-# Hi There 🥖
+# Hi There 👋
 
 My name is Albenis Kerqeli. I am a React/Javascript Developer , living near Gjilan, Kosovo. 🌙
 
