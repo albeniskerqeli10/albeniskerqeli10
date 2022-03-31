@@ -14,6 +14,8 @@ My name is Albenis Kerqeli. I am a React/Javascript Developer , living near Gjil
 &nbsp;
 [<img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" />][tech_tools_anchor]
 &nbsp;
+[<img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=E10098" alt="GraphQL logo" title="GraphQL" height="25" />][learning_now_anchor]]
+&nbsp;
 [<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux logo" title="Redux" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" />][tech_tools_anchor]
@@ -42,7 +44,6 @@ My name is Albenis Kerqeli. I am a React/Javascript Developer , living near Gjil
 <a name="learning-next"></a>
 
 ## 📖  What I am currently learning
-[<img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=E10098" alt="GraphQL logo" title="GraphQL" height="25" />][learning_now_anchor]]
 [<img src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white" alt="Gatsby logo" title="Gatsby" height="25" />][learning_now_anchor]]
 
 &nbsp;
