@@ -51,13 +51,7 @@ My name is Albenis Kerqeli. I am a React/Javascript Developer , living near Gjil
 
 ## 📙  What I am interested in learning at some point
 [<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python logo" title="Python" height="25" />][learning_next_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=02569B" alt="Flutter logo" title="Flutter" height="25" />][learning_next_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift logo" title="Swift" height="25" />][learning_next_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go logo" title="Go" height="25" />][learning_next_anchor]
-&nbsp;
+
 
 
 
